@@ -1,0 +1,12 @@
+!doctype html> 
+<html> 
+<head>
+ <meta charset=“utf-8”> 
+<title>我的个人网站——首页</title> 
+</head> <img src="images/9999.jpg"width="600"height="400"align="right"></td>?
+<h1 >基本信息：<br/> 院系：媒体工程学院软件工程系<br/> </h1>
+ <h2>学号190808222<h2> 
+<i3>姓名：陈圳涛<i3>
+ <h3>籍贯:浙江<h3>
+ <h3>兴趣爱好：阅读,k歌<h3> </tr> </table>
+ </body> 
